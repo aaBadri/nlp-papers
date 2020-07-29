@@ -1,6 +1,6 @@
 NLP must-read papers Q
 
-# General:
+# General
 - [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
 
 
@@ -28,5 +28,3 @@ NLP must-read papers Q
 - [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536)
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
-
-
