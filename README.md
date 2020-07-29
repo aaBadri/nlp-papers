@@ -31,4 +31,4 @@
 
 <br>
 
-# Tanks to:
+# Thanks to:
