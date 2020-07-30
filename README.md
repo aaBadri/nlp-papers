@@ -8,7 +8,6 @@
 
 
 # [Transformers](https://huggingface.co/transformers/index.html#contents)
-
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [GPT: Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
@@ -32,21 +31,20 @@
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 
 # GAN and VAE
-
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
 - [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
 - [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
 
-<br>
-
 # Dialouge Systems and Chatbots
-
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/abs/1702.01932)
 - [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241)
 - [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768)
 
+<br>
+
 # Thanks to
 - [Danial Alihosseini](https://github.com/Danial-Alh)
+- [Mohammad Mahdi Samiei](https://github.com/mmsamiei)
