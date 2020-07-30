@@ -37,5 +37,6 @@
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
 
 <br>
+
 # Thanks to:
 - [Danial Alihosseini](https://github.com/Danial-Alh)
