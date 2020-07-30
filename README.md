@@ -31,4 +31,11 @@
 
 <br>
 
+# [GAN and VAE](https://huggingface.co/transformers/index.html#contents)
+
+- [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
+- [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
+- [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
+- [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
+
 # Thanks to:
