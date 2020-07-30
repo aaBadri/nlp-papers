@@ -29,8 +29,6 @@
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 
-<br>
-
 # GAN and VAE
 
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
@@ -38,5 +36,6 @@
 - [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
 
+<br>
 # Thanks to:
 - [Danial Alihosseini](https://github.com/Danial-Alh)
