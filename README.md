@@ -40,5 +40,13 @@
 
 <br>
 
+# Dialouge Systems and Chatbots
+
+- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
+- [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/abs/1702.01932)
+- [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
+- [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241)
+- [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768)
+
 # Thanks to
 - [Danial Alihosseini](https://github.com/Danial-Alh)
