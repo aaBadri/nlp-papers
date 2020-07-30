@@ -31,7 +31,7 @@
 
 <br>
 
-# [GAN and VAE](https://huggingface.co/transformers/index.html#contents)
+# GAN and VAE
 
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
 - [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
