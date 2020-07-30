@@ -1,4 +1,4 @@
-**NLP Papers worth read**
+# Must-read papers on Natural Language Processing (NLP)
 
 <br>
 
@@ -40,5 +40,5 @@
 
 <br>
 
-# Thanks to:
+# Thanks to
 - [Danial Alihosseini](https://github.com/Danial-Alh)
