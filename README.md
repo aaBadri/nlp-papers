@@ -39,3 +39,4 @@
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
 
 # Thanks to:
+- [Danial Alihosseini](https://github.com/Danial-Alh)
