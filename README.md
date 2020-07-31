@@ -44,7 +44,8 @@
 - [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768)
 
 # Q/A (Question Answering)
-- [paper1 name](link)
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
+- [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
 
 # Sentiment Analysis
 - [paper1 name](link)
