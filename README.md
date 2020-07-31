@@ -43,6 +43,57 @@
 - [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241)
 - [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768)
 
+# Q/A (Question Answering)
+- [paper1 name](link)
+
+# Sentiment Analysis
+- [paper1 name](link)
+
+# NER (Name Entity Recognition)
+- [paper1 name](link)
+
+# Data Augmentation
+- [paper1 name](link)
+
+# Text Summarization
+- [paper1 name](link)
+
+# Reading Comprehension
+- [paper1 name](link)
+
+# NLI (Natural Language Inference)
+- [paper1 name](link)
+
+# Image Captioning
+- [paper1 name](link)
+
+# Emotion Recognition
+- [paper1 name](link)
+
+# Dependency Parsing
+- [paper1 name](link)
+
+# Semantic Parsing
+- [paper1 name](link)
+
+# POS Tagging (Part-Of-Speech Tagging)
+- [paper1 name](link)
+
+# Topic Modeling
+- [paper1 name](link)
+
+# SRL (Semantic Role Labeling)
+- [paper1 name](link)
+
+# Keyword Extraction
+- [paper1 name](link)
+
+# Semantic Similarity
+- [paper1 name](link)
+
+# Text Clustering
+- [paper1 name](link)
+
 <br>
 
 # Thanks to
