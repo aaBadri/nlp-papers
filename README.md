@@ -49,52 +49,52 @@
 - [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
 
 # Sentiment Analysis
-- [paper1 name](link)
+- add paper name and link
 
 # NER (Name Entity Recognition)
-- [paper1 name](link)
+- add paper name and link
 
 # Data Augmentation
-- [paper1 name](link)
+- add paper name and link
 
 # Text Summarization
-- [paper1 name](link)
+- add paper name and link
 
 # Reading Comprehension
-- [paper1 name](link)
+- add paper name and link
 
 # NLI (Natural Language Inference)
-- [paper1 name](link)
+- add paper name and link
 
 # Image Captioning
-- [paper1 name](link)
+- add paper name and link
 
 # Emotion Recognition
-- [paper1 name](link)
+- add paper name and link
 
 # Dependency Parsing
-- [paper1 name](link)
+- add paper name and link
 
 # Semantic Parsing
-- [paper1 name](link)
+- add paper name and link
 
 # POS Tagging (Part-Of-Speech Tagging)
-- [paper1 name](link)
+- add paper name and link
 
 # Topic Modeling
-- [paper1 name](link)
+- add paper name and link
 
 # SRL (Semantic Role Labeling)
-- [paper1 name](link)
+- add paper name and link
 
 # Keyword Extraction
-- [paper1 name](link)
+- add paper name and link
 
 # Semantic Similarity
-- [paper1 name](link)
+- add paper name and link
 
 # Text Clustering
-- [paper1 name](link)
+- add paper name and link
 
 <br>
 
