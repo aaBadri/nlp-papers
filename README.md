@@ -49,9 +49,6 @@
 - [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
 - [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051)
 
-# Sentiment Analysis
-- add paper name and link
-
 # NER (Name Entity Recognition)
 - [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://www.aclweb.org/anthology/C18-1182/)
 - [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/abs/1812.09449)
@@ -60,6 +57,9 @@
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 - [Neural Adaptation Layers for Cross-domain Named Entity Recognition](https://www.aclweb.org/anthology/D18-1226/)
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
+
+# Sentiment Analysis
+- add paper name and link
 
 # Data Augmentation
 - add paper name and link
@@ -108,3 +108,4 @@
 # Thanks to
 - [Danial Alihosseini](https://github.com/Danial-Alh)
 - [Mohammad Mahdi Samiei](https://github.com/mmsamiei)
+- [MohammadMahdi Aghajani](https://github.com/mmaghajani)
