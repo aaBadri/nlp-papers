@@ -53,7 +53,13 @@
 - add paper name and link
 
 # NER (Name Entity Recognition)
-- add paper name and link
+- [A Survey on Recent Advances in Named Entity Recognition from Deep Learning models](https://www.aclweb.org/anthology/C18-1182/)
+- [A Survey on Deep Learning for Named Entity Recognition](https://arxiv.org/abs/1812.09449)
+- [Named Entity Recognition With Parallel Recurrent Neural Networks](https://www.aclweb.org/anthology/P18-2012/)
+- [Evaluating the Utility of Hand-crafted Features in Sequence Labelling](https://www.aclweb.org/anthology/D18-1310/)
+- [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
+- [Neural Adaptation Layers for Cross-domain Named Entity Recognition](https://www.aclweb.org/anthology/D18-1226/)
+- [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
 
 # Data Augmentation
 - add paper name and link
