@@ -110,3 +110,4 @@
 - [Danial Alihosseini](https://github.com/Danial-Alh)
 - [Mohammad Mahdi Samiei](https://github.com/mmsamiei)
 - [MohammadMahdi Aghajani](https://github.com/mmaghajani)
+- [Farane Jalali Farahani](https://github.com/farJfar)
