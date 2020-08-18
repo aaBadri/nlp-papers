@@ -64,8 +64,6 @@
 - [Sentiment analysis using deep learning architectures: a review](https://link.springer.com/article/10.1007/s10462-019-09794-5?error=cookies_not_supported&code=e3476e76-fa89-4b61-b071-339cde10f9fe)
 
 
-- [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
-- [Neural Adaptation Layers for Cross-domain Named Entity Recognition](https://www.aclweb.org/anthology/D18-1226/)
 
 # Data Augmentation
 - add paper name and link
