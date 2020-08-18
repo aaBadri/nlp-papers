@@ -59,7 +59,9 @@
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
 
 # Sentiment Analysis
-- add paper name and link
+- [Sentiment analysis using deep learning approaches: an overview] (https://link.springer.com/article/10.1007/s11432-018-9941-6?error=cookies_not_supported&code=3c358a62-56b7-49a0-bbc8-e203d7244b53)
+
+- [Sentiment analysis using deep learning architectures: a review] (https://link.springer.com/article/10.1007/s10462-019-09794-5?error=cookies_not_supported&code=e3476e76-fa89-4b61-b071-339cde10f9fe)
 
 # Data Augmentation
 - add paper name and link
