@@ -30,7 +30,7 @@
 - [DialoGPT: Large-Scale Generative Pre-training for Conversational Response Generation](https://arxiv.org/abs/1911.00536)
 - [Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451)
 - [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
-- [GPT3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 
 # GAN and VAE
