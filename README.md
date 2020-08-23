@@ -33,11 +33,32 @@
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 
-# GAN and VAE
+# Language Models
+
+## GAN
 - [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)
+- [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks](https://arxiv.org/abs/1702.07983)
+- [Adversarial Ranking for Language Generation](https://arxiv.org/abs/1705.11001)
+- [Adversarial Feature Matching for Text Generation](https://arxiv.org/abs/1706.03850)
+- [MaskGAN: Better Text Generation via Filling in the______](https://arxiv.org/abs/1801.07736)
+- [Long Text Generation via Adversarial Training with Leaked Information](https://arxiv.org/abs/1709.08624)
+
+## VAE
 - [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349)
-- [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
+- [Improved Variational Autoencoders for Text Modeling using Dilated Convolutions](http://proceedings.mlr.press/v70/yang17d.html)
+- [Variational Lossy Autoencoder](https://openreview.net/forum?id=BysvGP5ee)
+- [Lagging Inference Networks and Posterior Collapse in Variational Autoencoders](https://openreview.net/forum?id=rylDfnCqF7)
+- [A Surprisingly Effective Fix for Deep Latent Variable Modeling of Text](https://doi.org/10.18653/v1/D19-1370)
+- [Spherical Latent Spaces for Stable Variational Autoencoders](https://www.aclweb.org/anthology/D18-1480/)
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
+- [Implicit Deep Latent Variable Models for Text Generation](https://doi.org/10.18653/v1/D19-1407)
+
+## Miscellaneous
+- [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/abs/1506.03099)
+- [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038)
+- [Toward Controlled Generation of Text](https://arxiv.org/abs/1703.00955)
+- [Wasserstein Auto-Encoders](https://openreview.net/forum?id=HkL7n1-0b)
+- [InfoVAE: Balancing Learning and Inference in Variational Autoencoders](https://doi.org/10.1609/aaai.v33i01.33015885)
 
 # Dialouge Systems and Chatbots
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
