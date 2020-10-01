@@ -80,7 +80,9 @@
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 - [Neural Adaptation Layers for Cross-domain Named Entity Recognition](https://www.aclweb.org/anthology/D18-1226/)
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
-
+# Machine Translation
+- [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)
+- [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043)
 # Sentiment Analysis
 - add paper name and link
 
