@@ -33,6 +33,7 @@
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 - [MARGE: Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
+- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 
 # Language Models
 
