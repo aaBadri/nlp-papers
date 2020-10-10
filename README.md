@@ -137,3 +137,4 @@
 - [MohammadMahdi Aghajani](https://github.com/mmaghajani)
 - [Farane Jalali Farahani](https://github.com/farJfar)
 - [Mohammad Mahdi Abdollahpour](https://github.com/mahdiabdollahpour)
+- [Soroush Rezaei](https://github.com/thinkingparticle)
