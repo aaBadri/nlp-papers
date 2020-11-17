@@ -35,7 +35,7 @@
 - [MARGE: Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
-
+- [A Survey on Contextual Embeddings](https://arxiv.org/pdf/2003.07278.pdf)
 # Language Models
 
 ## GAN
