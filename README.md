@@ -33,6 +33,8 @@
 - [GPT-3: Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
 - [MARGE: Pre-training via Paraphrasing](https://arxiv.org/abs/2006.15020)
+- [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
+- [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
 
 # Language Models
 
@@ -80,14 +82,30 @@
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 - [Neural Adaptation Layers for Cross-domain Named Entity Recognition](https://www.aclweb.org/anthology/D18-1226/)
 - [Neural Architectures for Named Entity Recognition](https://www.aclweb.org/anthology/N16-1030/)
+
 # Machine Translation
 - [Word Translation Without Parallel Data](https://arxiv.org/abs/1710.04087)
 - [Unsupervised Machine Translation Using Monolingual Corpora Only](https://arxiv.org/abs/1711.00043)
-# Sentiment Analysis
+
+# Text Classification
+
+## Using Graph
+- [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
+- [Graph Convolutional Networks for Text Classification](https://arxiv.org/abs/1809.05679)
+
+## Semi-supervised
+- [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
+- [Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)
+- [Uncertainty-aware Self-training for Text Classification with Few Labels](https://arxiv.org/abs/2006.15315)
+
+## Sentiment Analysis
 - add paper name and link
 
 # Data Augmentation
-- add paper name and link
+- [Back-translation paper: Improving Neural Machine Translation Models with Monolingual Data](https://arxiv.org/abs/1511.06709)
+- [Understanding Back-Translation at Scale](https://arxiv.org/abs/1808.09381)
+- [Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations](https://www.aclweb.org/anthology/N18-2072/)
+- [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/abs/1901.11196)
 
 # Text Summarization
 - add paper name and link
@@ -135,3 +153,6 @@
 - [Mohammad Mahdi Samiei](https://github.com/mmsamiei)
 - [MohammadMahdi Aghajani](https://github.com/mmaghajani)
 - [Farane Jalali Farahani](https://github.com/farJfar)
+- [Mohammad Mahdi Abdollahpour](https://github.com/mahdiabdollahpour)
+- [Soroush Rezaei](https://github.com/thinkingparticle)
+- [Ali Karimi](https://github.com/AliKarimi74)
