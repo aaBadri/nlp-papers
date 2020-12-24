@@ -3,8 +3,8 @@
 <br>
 
 # General
-- [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
-
+- [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442)
+- [Experience Grounds Language](https://www.aclweb.org/anthology/2020.emnlp-main.703)
 
 
 # [Transformers](https://huggingface.co/transformers/index.html#contents)
