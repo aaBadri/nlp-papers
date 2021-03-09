@@ -6,7 +6,6 @@
 - [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442)
 - [Experience Grounds Language](https://www.aclweb.org/anthology/2020.emnlp-main.703)
 
-
 # [Transformers](https://huggingface.co/transformers/index.html#contents)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [GPT: Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
@@ -36,6 +35,9 @@
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://arxiv.org/abs/2006.16236)
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
 - [A Survey on Contextual Embeddings](https://arxiv.org/pdf/2003.07278.pdf)
+
+# Multi Modal
+
 # Language Models
 
 ## GAN
