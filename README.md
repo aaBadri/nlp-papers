@@ -36,6 +36,7 @@
 - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://openreview.net/forum?id=YicbFdNTTy)
 - [A Survey on Contextual Embeddings](https://arxiv.org/pdf/2003.07278.pdf)
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
+- [How does Punctuation Affect Neural Models in Natural Language Inference (BERT, HBMP and BiLSTM)](https://aclanthology.org/2020.pam-1.15.pdf)
 
 # Multi Modal
 
