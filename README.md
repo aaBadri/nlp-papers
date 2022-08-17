@@ -37,6 +37,8 @@
 - [A Survey on Contextual Embeddings](https://arxiv.org/pdf/2003.07278.pdf)
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
 - [How does Punctuation Affect Neural Models in Natural Language Inference (BERT, HBMP and BiLSTM)](https://aclanthology.org/2020.pam-1.15.pdf)
+- [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
+- [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 
 # Multi Modal
 
@@ -60,6 +62,9 @@
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
 - [Implicit Deep Latent Variable Models for Text Generation](https://doi.org/10.18653/v1/D19-1407)
 
+## Diffusion Models
+- [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/pdf/2205.14217.pdf)
+
 ## Miscellaneous
 - [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/abs/1506.03099)
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/abs/1610.09038)
@@ -73,6 +78,9 @@
 - [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241)
 - [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768)
+## Conversational Recommender Systems
+- [A Survey on Conversational Recommender Systems](https://arxiv.org/pdf/2004.00646.pdf)
+- [Advances and Challenges in Conversational Recommender Systems: A Survey](https://arxiv.org/pdf/2101.09459.pdf)
 
 # Q/A (Question Answering)
 - [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
@@ -113,6 +121,12 @@
 
 # Information Retrieval
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/pdf/2010.06467.pdf)
+- [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling](https://arxiv.org/pdf/2104.06967.pdf)
+- [CoCondenser: Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/pdf/2108.05540.pdf)
+
+# Common Sense Reasoning
+- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
+- [Generated Knowledge Prompting for Commonsense Reasoning](https://arxiv.org/pdf/2110.08387.pdf)
 
 # Text Summarization
 - add paper name and link
