@@ -114,6 +114,10 @@
 # Information Retrieval
 - [Pretrained Transformers for Text Ranking: BERT and Beyond](https://arxiv.org/pdf/2010.06467.pdf)
 
+# Common Sense Reasoning
+- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
+- [Generated Knowledge Prompting for Commonsense Reasoning](https://arxiv.org/pdf/2110.08387.pdf)
+
 # Text Summarization
 - add paper name and link
 
