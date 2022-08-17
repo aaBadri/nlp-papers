@@ -78,6 +78,9 @@
 - [Neural Approaches to Conversational AI](https://arxiv.org/abs/1809.08267)
 - [Wizard of Wikipedia: Knowledge-Powered Conversational agents](https://arxiv.org/abs/1811.01241)
 - [The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents](https://arxiv.org/abs/1911.03768)
+## Conversational Recommender Systems
+- [A Survey on Conversational Recommender Systems](https://arxiv.org/pdf/2004.00646.pdf)
+- [Advances and Challenges in Conversational Recommender Systems: A Survey](https://arxiv.org/pdf/2101.09459.pdf)
 
 # Q/A (Question Answering)
 - [SQuAD: 100,000+ Questions for Machine Comprehension of Text](https://arxiv.org/abs/1606.05250)
