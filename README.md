@@ -38,6 +38,7 @@
 - [Efficient Transformers: A Survey](https://arxiv.org/pdf/2009.06732.pdf)
 - [How does Punctuation Affect Neural Models in Natural Language Inference (BERT, HBMP and BiLSTM)](https://aclanthology.org/2020.pam-1.15.pdf)
 - [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
+- [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/pdf/2101.00190.pdf)
 
 # Multi Modal
 
@@ -60,6 +61,9 @@
 - [Spherical Latent Spaces for Stable Variational Autoencoders](https://www.aclweb.org/anthology/D18-1480/)
 - [Adversarially Regularized Autoencoders](https://arxiv.org/abs/1706.04223)
 - [Implicit Deep Latent Variable Models for Text Generation](https://doi.org/10.18653/v1/D19-1407)
+
+## Diffusion Models
+- [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/pdf/2205.14217.pdf)
 
 ## Miscellaneous
 - [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/abs/1506.03099)
